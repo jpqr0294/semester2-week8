@@ -1,4 +1,6 @@
 
+// Finley Schofield JPQR0294
+
 #include <stdbool.h>
 #include <math.h>
 
